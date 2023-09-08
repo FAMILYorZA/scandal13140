@@ -1,4 +1,6 @@
-# This is a basic workflow to help you get started with Actions
+              - nom : Configurer l'environnement Node.js
+                utilise : actions/setup-node@v3.8.1
+             This is a basic workflow to help you get started with Actions
 
 name: CI
 
